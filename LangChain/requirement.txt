@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langgraph
+openai
+python-dotenv
+tavily-python
+dotenv
+
+langchain-google-vertexai
