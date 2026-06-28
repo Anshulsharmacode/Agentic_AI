@@ -7,5 +7,7 @@ openai
 python-dotenv
 tavily-python
 dotenv
+langchain-google-genai
+
 
 langchain-google-vertexai
